@@ -5,3 +5,6 @@
 [aeiou]*.cc
 
 [aeiou]*.dc
+
+!eleven.net
+
